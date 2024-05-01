@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UPTMSmartCampus" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:targaetApi="1">@color/black</item>
+    </style>
+
+    <style name="Theme.UPTMSmartCampus" parent="Base.Theme.UPTMSmartCampus" />
+</resources>

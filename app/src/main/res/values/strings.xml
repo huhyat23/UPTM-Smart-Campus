@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UPTM Smart Campus</string>
+    <string name="sec_web_client_id">499899099354-tvdhc33vlk9b2rgvdisaukc26o4r2iaq.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">499899099354-9osp5nl3nfsu0p3qlnvv6qmt4t02irvk.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+
+    <string name="open_nav">Open Nav Recycler</string>
+    <string name="close_nav">Close Nav Recycler</string>
+
+
+    <string name="mode_enabled">Light mode enabled</string>
+    <string name="label_select_theme">Select theme</string>
+    <string name="label_dark_mode">Dark mode</string>
+    <string name="label_light_mode">Light mode</string>
+    <string name="label_follow_system">Follow system</string>
+
+
+    <string-array name="themes">
+        <item>@string/label_light_mode</item>
+        <item>@string/label_dark_mode</item>
+        <item>@string/label_follow_system</item>
+    </string-array>
+
+</resources>
